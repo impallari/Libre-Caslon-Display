@@ -1,0 +1,78 @@
+FONTLOG for the Libre Caslon fonts
+
+This file provides detailed information on the Libre Caslon Font Software.
+
+This information should be distributed along with the Libre Caslon fonts and any derivative works.
+
+Basic Font Information
+
+Libre Caslon in Display and Text versions.
+The Display style is optimized for Headlines.
+The Text style is optimized for web body text.
+
+Join the project at:
+http://www.impallari.com/projects/overview/libre-caslon-display-and-text
+
+Documentation can be found at www.impallari.com
+
+To contribute to the project contact Pablo Impallari at impallari@gmail.com
+
+ChangeLog
+
+27 Nov 2014 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v1.00
+- Lots of small tweaks
+- iKerned
+
+23 Nov 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v0.41
+- Added old style, numerator, denominator, superior and inferior number sets.
+- Added some compound glyphs and trademarks symbols.
+
+
+17 Nov 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v0.39
+- Made some tweaks and changes on some glyphs.
+- Finished punctuation signs.
+- Added monetary symbols, and ligatures.
+
+10 Nov 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v0.37
+- Reviewed the drawing on the lowercase and some caps.
+- Reviewed and fixed some metrics.
+- Added numbers, diacritics and other compound signs.
+
+07 Marc 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon v0.34
+- Completed charset on the Text styles
+- Normalized Vertical Metrics
+- Lots of bugs fixed
+- Text Styles (Regular, Italic and Bold) are ready for iKern
+
+06 Dec 2012 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Text Italic v0.03
+- First draft of the Text Italic version.
+
+19 Nov 2012 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon v 0.22
+- Lower and Uppercase
+- Text Bold Style added
+- Some tentative kerning in the Display version
+- OT features calt and ss01
+
+08 Nov 2012 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon v0.03
+- Initial release
+- a-z lowercase only
+- Display and Text styles
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Pablo Impallari
+E: impallari@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+N: Rodrigo Fuenzalida
+E: hello@rfuenzalida.com
+W: http://www.rfuenzalida.com
+D: Designer
+
+
+
