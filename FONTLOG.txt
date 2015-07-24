@@ -1,8 +1,8 @@
-FONTLOG for the Libre Caslon fonts
+FONTLOG for the Libre Caslon Display font
 
-This file provides detailed information on the Libre Caslon Font Software.
+This file provides detailed information on the Libre Caslon Display Font Software.
 
-This information should be distributed along with the Libre Caslon fonts and any derivative works.
+This information should be distributed along with the Libre Caslon Display fonts and any derivative works.
 
 Basic Font Information
 
@@ -11,13 +11,17 @@ The Display style is optimized for Headlines.
 The Text style is optimized for web body text.
 
 Join the project at:
-http://www.impallari.com/projects/overview/libre-caslon-display-and-text
+https://github.com/impallari/Libre-Caslon-Display
 
 Documentation can be found at www.impallari.com
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
+
+27 Jul 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v1.001
+- Removed RFN
+- Rehinted using latest ttfautohint version (v1.3)
 
 27 Nov 2014 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Display v1.00
 - Lots of small tweaks
